@@ -1,1 +1,1 @@
-# Spring-Boot-Angular-JWT-Authentication
+# Spring-Boot-JWT-Authentication-Angular
